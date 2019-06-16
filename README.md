@@ -1,3 +1,6 @@
+Pay attention to #1, #4, #7, #17, #20, #24, #26, #27, #28, #29, #32, #35, #39, #42
+
+
 # List of (Advanced) JavaScript Questions
 
 I post daily multiple choice JavaScript questions on my [Instagram](https://www.instagram.com/theavocoder), which I'll also post here!
